@@ -1,0 +1,13 @@
+Flask
+Flask_PyMongo
+Flask-RESTful
+Jinja2
+MarkupSafe
+Werkzeug
+aniso8601
+argparse
+itsdangerous
+pymongo
+pytz
+six
+wsgiref
