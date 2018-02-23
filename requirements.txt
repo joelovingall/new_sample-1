@@ -10,5 +10,5 @@ itsdangerous
 pymongo
 pytz
 six
-wsgiref
 pystan
+wsgiref
