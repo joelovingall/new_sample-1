@@ -10,5 +10,6 @@ itsdangerous
 pymongo
 pytz
 six
+--upgrade setuptools
 pystan
 wsgiref
